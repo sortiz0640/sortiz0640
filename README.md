@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**sortiz0640/sortiz0640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✌️ What's Up? This is Sebastian 
 
-Here are some ideas to get you started:
+✏️ I'm a software developer in training from Costa Rica. Here you can find my personal projects </br> 
+🎓 Studying Software Engineering at Universidad Fidélitas since January 2024 </br>
+🏢 Working as a Content Moderator at Teleperformance CR since May 2024 </br>
+🎨 Creating digital artworks in my free time. Check out my [Pinterest](https://www.pinterest.com/sortizvargas0302/) </br>
+🧠 Taking courses to develop my IT career on [Coursera](https://www.coursera.org/programs/skills-for-success-tgdwx?authProvider=barbados-nti) </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 📝 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+# 📦 Databases
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+# 🖼️ Graphic Design
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
