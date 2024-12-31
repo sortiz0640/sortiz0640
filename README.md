@@ -3,7 +3,7 @@
 
 ✏️ I'm a software developer in training from Costa Rica. Here you can find my personal projects </br> 
 🎓 Studying Software Engineering at Universidad Fidélitas since January 2024 </br>
-🏢 Working as a Content Moderator at Teleperformance CR since May 2024 </br>
+🏢 Working as a Content Moderator. Teleperformance CR is my second home since May 2024 </br>
 🎨 Creating digital artworks in my free time. Check out my [Pinterest](https://www.pinterest.com/sortizvargas0302/) </br>
 🧠 Taking courses to develop my IT career on [Coursera](https://www.coursera.org/programs/skills-for-success-tgdwx?authProvider=barbados-nti) </br>
 
