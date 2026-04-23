@@ -1,8 +1,8 @@
 
 # ✌️ What's Up? This is Sebastian 
 
-✏️ I'm a software developer in training from Costa Rica. Here you can find my personal projects </br> 
-🎓 Studying Software Engineering at Universidad Fidélitas since January 2024 </br>
+✏️ I'm a software developer student from Costa Rica. Here you can find my personal projects </br> 
+🎓 Studying Software Engineering at Universidad Cenfotec since May 2025 </br>
 🏢 Working as a Microsoft Azure Support Engineer. Teknowledge is my workplace since Apr 2026 </br>
 
 
